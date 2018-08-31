@@ -9,49 +9,49 @@ such as clicking and dragging.
 to develop my ability to design versatile algorithms.
 
 * ##  [Apples](https://github.com/hfaara18/Programs-with-ObjectDraw/tree/master/Apples)
-  ** A rendition of the Hangman ame that drops apple after after the player makes wrong letter guesses to **
-  **  an unknow word  **
+  **A rendition of the Hangman ame that drops apple after after the player makes wrong letter guesses to**
+  **an unknow word**
   
 * ##  [BoxBall](https://github.com/hfaara18/Programs-with-ObjectDraw/tree/master/BoxBall)
-  ** A simple game that allows the player to drop a ball into a box from a predetermined distance based **
-  ** on the user's desired difficulty setting **
+  **A simple game that allows the player to drop a ball into a box from a predetermined distance based**
+  **on the user's desired difficulty setting**
   
 * ##  [Exploding](https://github.com/hfaara18/Programs-with-ObjectDraw/tree/master/Exploding)
-  ** A simple game that creates a rapidly expanding circle which shrinks or continues expanding after the user **
-  ** on the screen **
+  **A simple game that creates a rapidly expanding circle which shrinks or continues expanding after the user**
+  **on the screen**
 
 * ##  [Frogger](https://github.com/hfaara18/Programs-with-ObjectDraw/tree/master/Frogger)
-  ** A rendition of the frogger game where the player is supposed to controll a frog to cross a road **
-  ** without a vehicle passing over it **
+  **A rendition of the frogger game where the player is supposed to controll a frog to cross a road**
+  **without a vehicle passing over it**
 
 * ##  [Laundry](https://github.com/hfaara18/Programs-with-ObjectDraw/tree/master/Laundry)
-  **  A simple game where the player drags a laundry of a random color to its designated basket **
+  **A simple game where the player drags a laundry of a random color to its designated basket**
 
-* ##[LightBalloon](https://github.com/hfaara18/Programs-with-ObjectDraw/tree/master/LightBalloon)
-  **  A simple game where the color of two balloons are determined by the relative positions of **
-  ** three red, green, and blue colored bulbs. The player can only move the bulbs **
+* ## [LightBalloon](https://github.com/hfaara18/Programs-with-ObjectDraw/tree/master/LightBalloon)
+  **A simple game where the color of two balloons are determined by the relative positions of**
+  **three red, green, and blue colored bulbs. The player can only move the bulbs**
 
 * ##  [Nibbles](https://github.com/hfaara18/Programs-with-ObjectDraw/tree/master/Nibbles)
-  **  A simple rendition of the snake game **
+  **A simple rendition of the snake game**
 
 * ##  [NoClicking](https://github.com/hfaara18/Programs-with-ObjectDraw/tree/master/NoClicking)
-  ** A simple graphic with a sign post that reponds to mouse clicks **
+  **A simple graphic with a sign post that reponds to mouse clicks**
 
 * ##  [Skiball](https://github.com/hfaara18/Programs-with-ObjectDraw/tree/master/Skiball)
-  ** A simple rendition of the skiball game **
+  **A simple rendition of the skiball game**
 
 * ##  [Snowman](https://github.com/hfaara18/Programs-with-ObjectDraw/tree/master/Snowman)
-  ** An attempt to create a snowman with basic 2d shapes **
+  **An attempt to create a snowman with basic 2d shapes**
 
 * ##  [Stairs](https://github.com/hfaara18/Programs-with-ObjectDraw/tree/master/Stairs)
-  ** A recursive script that creatse a moveable/ draggable staircase **
+  **A recursive script that creatse a moveable/ draggable staircase**
 
 * ##  [TextPlay](https://github.com/hfaara18/Programs-with-ObjectDraw/tree/master/TextPlay)
-  ** A game that modifies user texts using preset values associated with button presses **
+  **A game that modifies user texts using preset values associated with button presses**
 
 * ##  [Triangulate](https://github.com/hfaara18/Programs-with-ObjectDraw/tree/master/Triangulate)
-  **  A recursive script that create a moveable/ draggable multicolored array of rectangles **
+  **A recursive script that create a moveable/ draggable multicolored array of rectangles**
 
 * ##  [WindowManager](https://github.com/hfaara18/Programs-with-ObjectDraw/tree/master/WindowManager)
-  **  A script that create a redition of a desktop window with minimizing, closing, and maximizing **
-  ** window functionalities **
+  **A script that create a redition of a desktop window with minimizing, closing, and maximizing**
+  **window functionalities**
